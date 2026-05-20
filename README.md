@@ -7,4 +7,3 @@ FEATURES-
           5.AREA SAFETY CHECK 
           6.WORKS OFFLINE/ONLINE
           7.PHONE DROP DETECTION
-          
